@@ -1,0 +1,189 @@
+.header-section{
+    background-image: url(../images/banner/banner2.png);
+    
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.header-container{
+    text-align: center;
+    padding-left: 845px;
+    padding-top: 216px;
+    padding-right: 230px;
+}
+.header-heading{
+    font-family: 'Work sans';
+    color: #151414;
+    font-size: 40px;
+}
+.header-description{
+    color: #444343;
+    font-size: 16px;
+    padding-top: 24px;
+    margin-bottom: 32px;
+    font-family: 'Work sans';
+}
+
+.btn-primary{
+    font-family: 'Work Sans';
+    
+    font-weight: 600;
+    font-size: 25px;
+    color:#FFFF;
+    background: #F15B22;
+    border-radius: 5px;
+    padding: 10px,20px;
+    width: 160px;
+    height: 64px;
+}
+
+.about-me-section{
+    display: flex;
+    padding-top: 700px;
+    padding-left: 280px;
+    
+}
+.about-text{
+    margin-top: 250px;
+    color: #151414;
+}
+.about-text-title{
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 40px;
+    color: black;
+    margin-left: 200px;
+}
+.about-text-description{
+    color: #444343;
+    font-size: 16px;
+    padding-top: 24px;
+    margin-bottom: 32px;
+    font-family: 'Work sans';
+    margin-left: 200px;
+}
+
+
+.container{
+    display: flex;
+    padding-top: 100px;
+    padding-left: 280px;
+    padding-right: 247px;
+}
+.container .text-section{
+    margin-top: 200px;
+    padding-left: 50px;
+}
+.secound-title{
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 40px;
+    color: black;
+}
+.check{
+    font-size: 16px;
+    font-family: 'Work Sans';
+    padding-top: 10px;
+}
+
+
+.planHeader{
+    font-family: 'Work Sans';
+    text-align: center;
+    padding-top: 140px;
+    font-size: 40px
+    
+
+}
+.planTofiqContainer{
+    display: flex;
+    padding-left: 230px;
+    padding-right: 229px;
+}
+.planTofiq{
+    padding-left: 130px;
+    font-family: 'Work Sans';
+    font-size: 20px;
+    color: #151414;
+}
+.planTofiqTitle{
+    font-family: 'Work Sans';
+}
+.planTofiqDescription{
+    font-family: 'Work Sans';
+}
+
+.mindset{
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%) , url(./images/watch.png);
+    width: 1140px;
+    height: 300px;
+    margin-top: 120px;
+    margin-left: 231px;
+    border-radius: 8px;
+}
+
+.mindset-container{
+    color: #ffff;
+    font-family: 'Work Sans';
+    font-size: 40px;
+    padding-left: 50px;
+}
+.mindset-title{
+    padding-top: 20px;
+}
+.btn{
+    padding-left: 40px;
+   
+}
+.btn .btn-primary{
+    color: orangered;
+    background-color: #ffff;
+}
+
+.footer{
+    display: flex;
+    width: 1600px;
+    height: 577px;
+    margin-top: 131px;
+    background: #151414;
+    
+}
+.footer-text-area{
+    padding-left: 231px;
+    color: #ffff;
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 16px;
+    
+}
+.footer-text-area-title{
+    padding-top: 50px;
+}
+footer-text-area-description{
+    padding-top: 30px;
+}
+.footer-form{
+    padding-right: 229px;
+    padding-left: 331px;
+    padding-top: 30px;
+}
+.footer-form-title{
+    padding-top: 50px;
+    color: #ffff;
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.footer-form-description{
+    font-family: 'Work Sans';
+    font-size: 16px;
+}
+.footer-form-email{
+    margin-bottom: 50px;
+    width: 325px;
+    height: 64px;
+}
